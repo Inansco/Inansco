@@ -17,13 +17,28 @@
 
 I'm learning software engineering by **building real projects, testing ideas, fixing bugs, and collaborating through GitHub**. My interests span Python, web apps, backend development, AI, African-language technology, and ethical cybersecurity practice. I share both what I've built and what I'm still learning.
 
+## 💻 Programming & Web Languages
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+**Practiced:** Python, SQL, HTML, CSS and shell commands. **Learning and exploring:** JavaScript, Bash and PowerShell scripting. JSON, CSV and Markdown are data/document formats rather than programming languages.
+
+## 🗣️ Human Languages & Language Technology
+
+- **English:** Used for programming documentation and communication.
+- **Idoma (Otukpo dialect):** Building vocabulary resources and experimenting with Idoma–English parallel datasets.
+
 ## 🖼️ My Technology Toolkit
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,js,sqlite,postgres,git,github,linux,bash,docker,vscode&perline=7" alt="Technology logos: Python, FastAPI, Flask, HTML, CSS, JavaScript, SQLite, PostgreSQL, Git, GitHub, Linux, Bash, Docker and VS Code"/>
 </div>
 
-**Languages & foundations:** Python, HTML, CSS, JavaScript basics, SQL, shell commands.
+**Languages & foundations:** Python, JavaScript basics, HTML, CSS, SQL, Bash/shell commands and PowerShell terminal practice.
 
 **Tools & platforms:** Git, GitHub, Linux, Kali Linux on WSL2, VS Code, Render, Python virtual environments.
 
@@ -85,7 +100,7 @@ Learning ethical hacking fundamentals through **Kali Linux on WSL2**, terminal e
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Inansco&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub activity statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inansco&layout=compact&theme=tokyonight&hide_border=true" alt="Languages used in GitHub repositories" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inansco&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Languages used in GitHub repositories" />
 <img src="https://streak-stats.demolab.com?user=Inansco&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
