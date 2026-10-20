@@ -21,11 +21,11 @@ I'm learning software engineering by **building real projects, testing ideas, fi
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
 
-**Practiced:** Python, SQL, HTML, CSS and shell commands. **Learning and exploring:** JavaScript, Bash and PowerShell scripting. JSON, CSV and Markdown are data/document formats rather than programming languages.
+**Practiced:** Python, SQL, HTML, CSS and shell commands. **Learning and exploring:** Go (Golang), JavaScript, Bash and PowerShell scripting. JSON, CSV and Markdown are data/document formats rather than programming languages.
 
 ## 🗣️ Human Languages & Language Technology
 
@@ -35,10 +35,10 @@ I'm learning software engineering by **building real projects, testing ideas, fi
 ## 🖼️ My Technology Toolkit
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,js,sqlite,postgres,git,github,linux,bash,docker,vscode&perline=7" alt="Technology logos: Python, FastAPI, Flask, HTML, CSS, JavaScript, SQLite, PostgreSQL, Git, GitHub, Linux, Bash, Docker and VS Code"/>
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,flask,html,css,js,sqlite,postgres,git,github,linux,bash,docker,vscode&perline=7" alt="Technology logos: Python, FastAPI, Flask, HTML, CSS, JavaScript, SQLite, PostgreSQL, Git, GitHub, Linux, Bash, Docker and VS Code"/>
 </div>
 
-**Languages & foundations:** Python, JavaScript basics, HTML, CSS, SQL, Bash/shell commands and PowerShell terminal practice.
+**Languages & foundations:** Python, Go (learning), JavaScript basics, HTML, CSS, SQL, Bash/shell commands and PowerShell terminal practice.
 
 **Tools & platforms:** Git, GitHub, Linux, Kali Linux on WSL2, VS Code, Render, Python virtual environments.
 
